@@ -1,1 +1,1 @@
-# Hackathon-Project
+Computer Vision for people with special needs
